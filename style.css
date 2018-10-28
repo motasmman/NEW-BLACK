@@ -1,0 +1,86 @@
+
+header{
+    background-image: url('bib.jpg');
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+
+
+.navbar-brand:hover {
+background-color: #11832c;
+}
+
+h1{
+    font-family: 'Francois One', sans-serif;
+    text-align: center;
+margin-top: 25px;
+}
+
+.card-body{
+    background-color: #7f8c8d;
+    color: #ffffff;
+}
+p {
+    font-family: 'Francois One', sans-serif;
+
+}
+h5{
+    font-family: 'Russo One', sans-serif;
+
+}
+
+
+#musti{
+    background-image: url('den.jpg');
+    padding-bottom: 20px;
+
+}
+
+.gigi{
+    color: #ffffff;
+    text-decoration: none;
+    text-decoration-style: none;
+    
+}
+.gigi:hover{
+    color: #11832c;
+}
+#didi{
+    padding-top: 25px;
+    text-align: center;
+    color: rgb(80, 77, 77);
+    font-family: 'Acme', sans-serif;
+
+}
+
+.button{
+    border-radius: 10px;
+    background-color: #28a745;
+}
+a{
+    font-family: 'Francois One', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:#f39c12   
+    
+}
+#max{
+    width: 100%;
+}
+
+.caro-log{
+    background-image: url('vv.gif ')
+}
+
+
+.page-footer{
+   background-color: #adadad  
+}
+
+
+.d-flex{
+    background-image: url('giphy.gif')
+}

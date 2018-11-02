@@ -1,7 +1,8 @@
 
 header{
     background-image: url('bib.jpg');
-    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom ;
     height: 700px;
     background-size: cover;
 }
@@ -15,6 +16,9 @@ h1{
     font-family: 'Francois One', sans-serif;
     text-align: center;
 margin-top: 25px;
+}
+.roe{
+    text-align: center;
 }
 
 .card-body{
@@ -49,7 +53,7 @@ h5{
 #didi{
     padding-top: 25px;
     text-align: center;
-    color: rgb(80, 77, 77);
+    color: rgb(134, 133, 133);
     font-family: 'Acme', sans-serif;
 
 }
@@ -72,15 +76,16 @@ a:hover{
 }
 
 .caro-log{
-    background-image: url('vv.gif ')
+    background-image: url('hak.gif')
 }
 
 
 .page-footer{
-   background-color: #adadad  
+background-image: url('här.jpg')
 }
-
 
 .d-flex{
     background-image: url('giphy.gif')
 }
+
+

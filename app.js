@@ -1,36 +1,23 @@
 /*
-var age = prompt("how old are you");
 
+var agee = prompt("how old are you?")
 
-if (age >= 18) {  //Annars     detta är sant
-    alert("old enough");  // Öppnar sidan.  //denna raden kallas condition statement
-
-
-}
-else if (age < 18) { //Annars om      detta är falskt
-    alert("sorry! old not enough");
-    open(""); //öppnar en blank sida
-
-
-
-}
-else {
-    alert("Whaaaat!?"); // om du skriver med bokstäver så dyker denna upp. detta är varken sant eller falskt
+var age = prompt("how old are you")
+if (age >=18) {  
+    alert("old enough")
+}else if (age < 18) {
+    alert("sorry not old enough");
+    open("")
+ } else {
+    alert("Whaaaat!?");  falskt
+    
+};
+var name = prompt("What's your name??");
+if (name === "Junior") {
+    alert("Enjoy!!!!");
+}else {
+    alert("hejdå");
     open("");
-}
-
-
-
-
-var name = prompt("what's your name?");
-if (name === "motasm") {
-    alert("Welcome");
-}
-
-else {
-    alert("Byeee");
-    open("");
-}
-*/
-
+};
+ */
 
